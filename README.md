@@ -1,3 +1,5 @@
+<img width="1408" height="768" alt="Gemini_Generated_Image_voq0pnvoq0pnvoq0" src="https://github.com/user-attachments/assets/85aeb9cd-8355-4896-be0a-5b62d4a67e59" />
+
 # Diffy
 
 A TypeScript library for parsing and applying unified diffs. Framework-agnostic with dependency injection for file I/O.
