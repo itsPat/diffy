@@ -1,0 +1,20 @@
+{
+  "name": "diffy",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "diffy": "bun run src/cli.ts",
+    "test": "bun test",
+    "test:parser": "bun test tests/parser.test.ts",
+    "test:applier": "bun test tests/applier.test.ts",
+    "test:io": "bun test tests/io.test.ts",
+    "test:cli": "bun test tests/cli.test.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
