@@ -1,0 +1,13 @@
+--- a/example.ts
++++ b/example.ts
+@@ -1,7 +1,8 @@
+ function greet(name: string): string {
+-  return "Hello, " + name;
++  return `Hello, ${name}!`;
+ }
+
+ function farewell(name: string): string {
+-  return "Goodbye, " + name;
++  return `Goodbye, ${name}!`;
++  // TODO: Add more farewell messages
+ }

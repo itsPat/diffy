@@ -1,0 +1,23 @@
+--- a/readme.md
++++ b/readme.md
+@@ -1,6 +1,8 @@
+ # My Project
+
+-This is a sample project.
++This is a sample project for exploring unified diffs.
++
++Built with Bun and TypeScript.
+
+ ## Features
+
+@@ -11,5 +13,9 @@
+
+ Run the install command.
+
++```bash
++bun install
++```
++
+ ## Usage
+
+ Import and use.
